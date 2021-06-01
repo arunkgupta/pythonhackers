@@ -39,6 +39,6 @@ slugify==0.0.1
 thrift==0.9.1
 times==0.6.2
 tweepy==2.2
-urllib3==1.7.1
+urllib3==1.26.5
 wsgiref==0.1.2
 zope.interface==4.0.5
