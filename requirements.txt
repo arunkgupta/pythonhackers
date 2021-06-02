@@ -20,7 +20,7 @@ cqlengine==0.11.0
 docutils==0.11
 feedparser==5.1.3
 itsdangerous==0.23
-markdown2==2.2.0
+markdown2==2.4.0
 msgpack-python==0.4.0
 psycopg2==2.5.2
 pyes==0.90.1
