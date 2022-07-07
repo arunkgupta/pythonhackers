@@ -30,7 +30,7 @@ pytz==2013.9
 rauth==0.6.2
 raven==4.0.4
 redis==2.9.1
-requests==1.2.3
+requests==2.20.0
 rq==0.3.13
 simplejson==3.3.2   
 simplekv==0.7.1.dev1
